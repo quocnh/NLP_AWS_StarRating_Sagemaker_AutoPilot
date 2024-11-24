@@ -1,5 +1,5 @@
 # NLP_AWS_StarRating_Sagemaker_AutoPilot
-![NLP Text Processing and AutoML](https://github.com/quocnh/NLP_AWS_StarRating_Sagemaker_AutoPilot/blob/499afd8832b7b59260789edc8b8b5d2072c3e403/1-NLP_TextProcessing_StartRatingwithAmazonCustomerReview_with_AutoML_Sagemaker_AutoPilot/img/auto_ml.png)
+![NLP Text Processing and AutoML](https://github.com/quocnh/NLP_AWS_StarRating_Sagemaker_AutoPilot/blob/499afd8832b7b59260789edc8b8b5d2072c3e403/1-NLP_TextProcessing_StartRatingwithAmazonCustomerReview_with_AutoML_Sagemaker_AutoPilot/img/aws-stack-autopilot.png)
 
 ### Introduction to the App: 
 NLP Text Processing and Star Rating Analysis with Amazon Customer Reviews using AutoML (SageMaker AutoPilot)
@@ -11,6 +11,8 @@ This application leverages the power of Natural Language Processing (NLP) and Am
 - AutoML with SageMaker AutoPilot: Automatically builds, trains, and tunes machine learning models, selecting the best algorithm for predicting customer review star ratings.
 - Scalable Predictions: Easily handles large datasets using the robust infrastructure of AWS SageMaker.
 - User-Friendly Insights: Generates insights into customer sentiment and product performance, helping businesses make data-driven decisions.
+  
+![NLP Text Processing and AutoML](https://github.com/quocnh/NLP_AWS_StarRating_Sagemaker_AutoPilot/blob/499afd8832b7b59260789edc8b8b5d2072c3e403/1-NLP_TextProcessing_StartRatingwithAmazonCustomerReview_with_AutoML_Sagemaker_AutoPilot/img/auto_ml.png)
 
 ### Use Case:
 This app is designed for e-commerce businesses, product managers, or analysts looking to automate the analysis of customer feedback. It helps uncover trends in product satisfaction, identify areas for improvement, and predict customer sentiments with minimal manual intervention.
