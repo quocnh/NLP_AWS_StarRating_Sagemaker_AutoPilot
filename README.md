@@ -1,4 +1,5 @@
 # NLP_AWS_StarRating_Sagemaker_AutoPilot
+![NLP Text Processing and AutoML](https://github.com/quocnh/NLP_AWS_StarRating_Sagemaker_AutoPilot/blob/499afd8832b7b59260789edc8b8b5d2072c3e403/1-NLP_TextProcessing_StartRatingwithAmazonCustomerReview_with_AutoML_Sagemaker_AutoPilot/img/auto_ml.png)
 
 ### Introduction to the App: 
 NLP Text Processing and Star Rating Analysis with Amazon Customer Reviews using AutoML (SageMaker AutoPilot)
